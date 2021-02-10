@@ -5,7 +5,7 @@ For example, extractPrimes(1717) returns [7, 7, 17, 17, 71].
 
 The array should be in acending order. If a prime number appears more than once, every occurance should be listed. If no prime numbers are found, return an empty array.
 
-Examples
+Examples:
 extractPrimes(1) ➞ []
 
 extractPrimes(7) ➞ [7]
